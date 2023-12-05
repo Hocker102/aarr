@@ -3,8 +3,8 @@ from tkinter import Label, ttk
 from tkinter import messagebox
 import Calculation
 import Datas
-#hello
 
+#go go go
 #Создание окна
 root = tk.Tk()
 root.title("Кальулятор мебели")
